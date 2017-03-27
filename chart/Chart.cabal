@@ -12,7 +12,7 @@ Description: A library for generating 2D Charts and Plots, with backends provide
              and
              Diagrams (<http://hackage.haskell.org/package/Chart-diagrams>).
              
-             Documentation: https://github.com/timbod7/haskell-chart/wiki.
+             Documentation: <https://github.com/timbod7/haskell-chart/wiki>.
 Category: Graphics
 Cabal-Version: >= 1.6
 Build-Type: Simple
